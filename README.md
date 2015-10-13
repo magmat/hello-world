@@ -7,3 +7,9 @@ Testo del capitolo 2
 Testo del capitolo 3
 Hi everybody...
 
+**Bold my Items**
+
+List:
+
+- First Item
+- Second Item
